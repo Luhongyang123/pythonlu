@@ -1,0 +1,2 @@
+# pythonlu
+study for python
